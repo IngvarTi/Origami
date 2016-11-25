@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Origami</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Rate it now</string>
+    <string name="title_activity_activity_plane">PAPER PLANE</string>
+    <string name="title_activity_activity_animal">ActivityAnimal</string>
+    <string name="title_activity_activity_bugs">ActivityBugs</string>
+    <string name="title_activity_activity_flowers">ActivityFlowers</string>
+
+    <string name="title_activity_plane">PlaneActivity</string>
+    <string name="title_activity_plane_2_">Plane_2_Activity</string>
+    <string name="title_activity_plane_3_">Plane_3_Activity</string>
+    <string name="title_activity_plane_4_">Plane_4_Activity</string>
+    <string name="title_activity_plane_5_">Plane_5_Activity</string>
+
+    <string name="title_activity_activity_moving">ACTION MODELS</string>
+    <string name="title_activity_moving_1_">Moving_1_Activity</string>
+    <string name="title_activity_movimg_2_">Movimg_2_Activity</string>
+    <string name="title_activity_moving_2_">Moving_2_Activity</string>
+    <string name="title_activity_moving_3_">Moving_3_Activity</string>
+    <string name="title_activity_moving_4_">Moving_4_Activity</string>
+    <string name="title_activity_moving_5_">Moving_5_Activity</string>
+    <string name="title_activity_moving_6_">Moving_6_Activity</string>
+
+    <string name="title_activity_activity_christmas">CHRISTMAS</string>
+    <string name="title_activity_christmas_1_">Christmas_1_Activity</string>
+    <string name="title_activity_christmas_1_crystal_">Christmas_1_crystal_Activity</string>
+    <string name="title_activity_christmas_5_">Christmas_5_Activity</string>
+    <string name="title_activity_main222">Main222Activity</string>
+    <string name="title_activity_christmas_6_">Christmas_6_Activity</string>
+    <string name="title_activity_christmas_7_">Christmas_7_Activity</string>
+    <string name="title_activity_christmas_8_">Christmas_8_Activity</string>
+    <string name="title_activity_christmas_9_">Christmas_9_Activity</string>
+    <string name="title_activity_christmas_10_">Christmas_10_Activity</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-6526618984663462/1969267431</string>
+
+    <string name="textMoving_1">A Wiggling Dinosaur</string>
+    <string name="textMoving_2">A Jumping Frog</string>
+    <string name="textMoving_3">A Croaking Frog</string>
+    <string name="textMoving_4">Crow of hungry</string>
+    <string name="textMoving_5">A Flapping Bird</string>
+    <string name="textMoving_6">Pakupaku</string>
+
+    <string name="textChristmas_1">A snow crystal</string>
+    <string name="textChristmas_2">A snow crystal</string>
+    <string name="textChristmas_3">A snow crystal</string>
+    <string name="textChristmas_4">A Tree</string>
+    <string name="textChristmas_5">A Star</string>
+    <string name="textChristmas_6">A Santa Boot</string>
+    <string name="textChristmas_7">Santas Face</string>
+    <string name="textChristmas_8">A Stick Candy</string>
+    <string name="textChristmas_9">A Present Box</string>
+    <string name="textChristmas_10">A Snowman</string>
+    <string name="textChristmas_crystal_1">1 Fold in half to make a crease and fold back. 2 Fold in half.</string>
+    <string name="textChristmas_crystal_2">3 Fold in the dotted line. 4 Turn over.</string>
+    <string name="textChristmas_crystal_3">5 Fold in the dotted line. 6 Fold in half.</string>
+    <string name="textChristmas_crystal_4">7 Cut in lines with a pair of scissors. 8 Open.</string>
+
+    <string name="finished">Finished</string>
+
+    <string name="textChristmas_tree_1">1 Fold in half. 2 Fold in half.</string>
+    <string name="textChristmas_tree_2">3 Open the ^ part. 4 Flatten.</string>
+    <string name="textChristmas_tree_3">5 Turn Over. 6 Open the ^ part and flatten.</string>
+    <string name="textChristmas_tree_4">7 Fold to meet the center line. 8 Fold inside in the dotted line.</string>
+    <string name="textChristmas_tree_5">9 Turn over. 10 Fold as much as 5 ~ 7.</string>
+    <string name="textChristmas_tree_6">11 Fold back is the same. 12 Fold inside back is the same.</string>
+    <string name="textChristmas_tree_7">Finished bottom.</string>
+    <string name="textChristmas_tree_8">1 Fold to make a crease and fold back. 2 Fold to meet the center line.</string>
+    <string name="textChristmas_tree_9">3 Fold in the dotted line. 4 Turn over. 5 Folds a little in center line.</string>
+    <string name="textChristmas_tree_10">6 Same four one is made and piled up. 7 Sets it in the upper part.</string>
+
+    <string name="textChristmas_star_1">1 Fold in half. 2 Fold in the dotted line to make a crease. 3 Fold in the dotted line to make a crease.</string>
+    <string name="textChristmas_star_2">4 Fold to reach the star to the other one. 5 Fold in the dotted line.</string>
+    <string name="textChristmas_star_3">6 Fold in the dotted line. 7 Fold backward in the dotted line.</string>
+    <string name="textChristmas_star_4">8 Cut with a pair of scissors. 9 Open.</string>
+    <string name="textChristmas_star_5">10 Fold to make a crease and fold back. 11 Fold to make a crease and fold back.</string>
+
+    <string name="textChristmas_boot_1">1 Fold in half to make a crease and fold back. 2 Fold backward in the dotted line.</string>
+    <string name="textChristmas_boot_2">3 Fold in the dotted lines to meet the center line. 4 Fold in the dotted line.</string>
+    <string name="textChristmas_boot_3">5 Fold to make a crease and unfold. 6 Fold to make a crease and unfold.</string>
+    <string name="textChristmas_boot_4">7 Open the pocket from ^ and flatten. 8 Fold in the dotted line.</string>
+    <string name="textChristmas_boot_5">9 Fold in the dotted line. 10 Pocked fold in the dotted lines.</string>
+    <string name="textChristmas_boot_6">11 Fold both sides inside. 12 Turn around.</string>
+
+    <string name="textChristmas_santa_1">1 Fold in half to make a crease and unfold. 2 Fold in the dotted lines to meet the center line.</string>
+    <string name="textChristmas_santa_2">3 Fold to make creases and fold back. 4 Fold in the dotted lines. 5 Fold in the dotted lines.</string>
+    <string name="textChristmas_santa_3">6 Step fold in the dotted line. 7 Fold in the dotted lines. 8 Turn over.</string>
+    <string name="textChristmas_santa_4">9 Fold in the dotted line. 10 Fold in the dotted line.</string>
+    <string name="textChristmas_santa_5">11 Fold in the dotted lines. 12 Turn over.</string>
+    <string name="textChristmas_santa_6">Draw face and finished.</string>
+    <string name="textChristmas_stick_1">1 Fold to make creases and unfold. 2 Fold in forward in the dotted line.</string>
+    <string name="textChristmas_stick_2">3 Turn over. 4 Roll up.</string>
+    <string name="textChristmas_stick_3">5 Fold forward in the dotted line. 6 Fold backward in the dotted line.</string>
+
+    <string name="textChristmas_presentbox_1">1 Fold in the dotted line. 2 Fold in the dotted line.</string>
+    <string name="textChristmas_presentbox_2">3 Open. 4 Turn over.</string>
+    <string name="textChristmas_presentbox_3">5 Fold to meet the center. 6 Fold in the dotted line.</string>
+    <string name="textChristmas_presentbox_4">7 Open. 8 Turn over.</string>
+    <string name="textChristmas_presentbox_5">9 Fold in the dotted line. 10 Fold to meet the center line.</string>
+    <string name="textChristmas_presentbox_6">11 Open. 12 Inserts it.</string>
+
+    <string name="textChristmas_snowman_1">1 Fold in half.</string>
+    <string name="textChristmas_snowman_2">2 Fold to make a crease and unfold. 3 Step fold forward in the dotted lines. 4 Fold in the dotted lines.</string>
+    <string name="textChristmas_snowman_3">5 Fold in the dotted lines. 6 Fold in the dotted lines. 7 Turn over.</string>
+    <string name="textChristmas_snowman_4">8 Fold inside. 9 Fold backward in the dotted lines.</string>
+    <string name="textChristmas_snowman_5">Fold in half and finished.</string>
+
+    <string name="textMoving_dinosaur_1">1 Fold in half and fold back. 2 Fold in the gray lines to meet in the center line.</string>
+    <string name="textMoving_dinosaur_2">3 Fold in the gray lines to meet the center line. 4 Fold in half. 5 Fold in the gray line.</string>
+    <string name="textMoving_dinosaur_3">6 Fold in the gray lines to meet the center line. 7 Fold to make crease and fold back.</string>
+    <string name="textMoving_dinosaur_4">8 Open the pockets from ^ and fold to right. 9 Fold backwards in the gray line.</string>
+
+    <string name="draw_finished">Draw eyes and finished.</string>
+
+    <string name="howToPlay">How to Play.</string>
+
+    <string name="textMoving_frog_1">1 Fold in half to make crease. 2 Fold in half.</string>
+    <string name="textMoving_frog_2">3 Fold to make crease and fold back. 4 Fold to make crease and fold back. 5 Fold in the lines.</string>
+    <string name="textMoving_frog_3">6 Fold in the gray line. 7 Fold in the grey lines to meet the center. 8 Fold in the gray line.</string>
+    <string name="textMoving_frog_4">9 Fold in the gray line and fold back. 10 Pull out the corners.</string>
+    <string name="textMoving_frog_5">11 Fold in the gray line. 12 Fold in the gray line.</string>
+    <string name="textMoving_frog_6">13 Fold in the gray line. 14 Turn over.</string>
+    <string name="textMoving_frog_8">Hold with a finger and release to jump.</string>
+
+    <string name="textMoving_jumpfrog_1">1 Fold in the gray line to meet the center line.</string>
+    <string name="textMoving_jumpfrog_2">2 Fold in half to make crease and fold back.</string>
+    <string name="textMoving_jumpfrog_3">3 Fold in the gray lines and fold back.</string>
+    <string name="textMoving_jumpfrog_4">4 Open the pockets from ^ and flatten to triangle.</string>
+    <string name="textMoving_jumpfrog_5">5 Fold in the gray line.</string>
+    <string name="textMoving_jumpfrog_6">6 Tuck the edges into to pocket.</string>
+    <string name="textMoving_jumpfrog_7">7 Fold backward in the gray lines.</string>
+    <string name="textMoving_jumpfrog_8">8 Turn over. 9 Fold backward into the gray lines.</string>
+
+    <string name="textMoving_crow_1">1 Fold to meet the center line. 2 Turn over.</string>
+    <string name="textMoving_crow_2">3 Fold to meet the center line. 4 Turn over.</string>
+    <string name="textMoving_crow_3">5 Fold in half. 6 Open the ^ part and flatten.</string>
+    <string name="textMoving_crow_4">7 Turn over. 8 Open the ^ part and flatten.</string>
+    <string name="textMoving_crow_5">9 Makes it to the cross. 10 Turn over.</string>
+    <string name="textMoving_crow_6">11 Picks up and it lets it out.</string>
+    <string name="textMoving_bird_1">1 Fold in half to make a crease and unfold. 2 fold in half.</string>
+    <string name="textMoving_bird_2">3 Fold in the grey line. 4 Fold in the gray line. 5 Open the pocket from ^ and flatten.</string>
+    <string name="textMoving_bird_3">6 Fold backward in the gray line. 7 Hood pocket in the gray line. 8 Fold in the gray line.</string>
+    <string name="textMoving_bird_4">9 Fold in the gray line. 10 Turn over.</string>
+    <string name="textMoving_bird_5">11 Pocket fold in the dotted line. 12 Pocket fold in the dotted line.</string>
+
+    <string name="textPakupaku_1">1 Fold in half to make crease and fold back. 2 Fold in the dotted lines to meet the center lines.</string>
+    <string name="textPakupaku_2">3 Turn over. 4 Fold in the dotted lines to meet the center lines.</string>
+    <string name="textPakupaku_3">5 Fold in half. 6 Fold in half.</string>
+    <string name="textPakupaku_4">7 Flatten to square. 8 Turn over.</string>
+    <string name="textPakupaku_5">9 Flatten to square. 10 Open.</string>
+    <string name="textPakupaku_6">11 Let both thubs and index fingers in. 12 Draw face and finished.</string>
+
+    <string name="textPlane_1_1">1 Fold in the grey line to meet the center line.</string>
+    <string name="textPlane_1_2">2 Fold in the grey line.</string>
+    <string name="textPlane_1_3">3 Fold in the grey line to meet the center line.</string>
+    <string name="textPlane_1_4">4 Fold in the grey line.</string>
+    <string name="textPlane_1_5">5 Fold backward in the gray line.</string>
+    <string name="textPlane_1_6">6 Fold in the grey line.</string>
+
+    <string name="textPlane_2_1">1 Fold to meet the center line.</string>
+    <string name="textPlane_2_2">2 Turn over.</string>
+    <string name="textPlane_2_3">3 Fold to meet the center line.</string>
+    <string name="textPlane_2_4">4 Open the part.</string>
+    <string name="textPlane_2_5">5 Fold in the gray line.</string>
+    <string name="textPlane_2_6">6 Fold in half.</string>
+    <string name="textPlane_2_7">7 Fold in the gray line, do it on the other side, too.</string>
+
+    <string name="textPlane_3_1">1 Fold in half to make creases and fold back. 2 Fold to meet the center line.</string>
+    <string name="textPlane_3_2">3 Fold to meet the center line. 4 Fold in the gray line.</string>
+    <string name="textPlane_3_3">5 Fold in half. 6 Fold in the grayline.</string>
+
+    <string name="textPlane_4_1">1 Fold in half to make acreases and fold back.</string>
+    <string name="textPlane_4_2">2 Fold to meet the center line.</string>
+    <string name="textPlane_4_3">3 Fold in the gray line.</string>
+    <string name="textPlane_4_4">4 Fold in the gray line.</string>
+    <string name="textPlane_4_5">5 Fold in half.</string>
+    <string name="textPlane_4_6">6 Turn around. 7 Fold in the gray line.</string>
+    <string name="textPlane_4_7">8 Fold horizontally.</string>
+    <string name="textPlane_4_8">9 Fold vertically.</string>
+
+    <string name="textPlane_5_1">1 Fold in half to make acreases and fold back.</string>
+    <string name="textPlane_5_2">2 Fold to meet the center line.</string>
+    <string name="textPlane_5_3">3 Fold to meet the center line.</string>
+    <string name="textPlane_5_4">4 Fold in the gray line.</string>
+    <string name="textPlane_5_5">5 Fold to meet the center line. 6 Fold in half.</string>
+    <string name="textPlane_5_6">6 Hood fold in the grey line.</string>
+    <string name="textPlane_5_7">7 Fold both sides in the grey lines and adjust in 90 degrees.</string>
+
+    <string name="rateuri">market://details?id=com.mittereflores.origami</string>
+
+
+</resources>

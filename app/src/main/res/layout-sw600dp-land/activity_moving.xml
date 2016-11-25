@@ -1,0 +1,126 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.mittereflores.origami.ActivityMoving"
+    android:id="@+id/actMoving">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_marginTop="?android:attr/actionBarSize"
+                android:layout_width="@dimen/button_image_size_land_600_width"
+                android:layout_height="@dimen/button_image_size_land_600_height"
+                android:id="@+id/vectorImage"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textMoving_1"
+                android:id="@+id/textMoving1"
+                android:textSize="@dimen/button_name_size_land_600_width"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                android:layout_marginBottom="@dimen/button_image_vertical_600_margin"/>
+
+            <ImageView
+                android:layout_width="@dimen/button_image_size_land_600_width"
+                android:layout_height="@dimen/button_image_size_land_600_height"
+                android:id="@+id/vectorImage1"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textMoving_2"
+                android:id="@+id/textMoving2"
+                android:textSize="@dimen/button_name_size_land_600_width"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                android:layout_marginBottom="@dimen/button_image_vertical_600_margin"/>
+
+
+            <ImageView
+                android:layout_width="@dimen/button_image_size_land_600_width"
+                android:layout_height="@dimen/button_image_size_land_600_height"
+                android:id="@+id/vectorImage2"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textMoving_3"
+                android:id="@+id/textMoving3"
+                android:textSize="@dimen/button_name_size_land_600_width"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                android:layout_marginBottom="@dimen/button_image_vertical_600_margin"/>
+
+
+            <ImageView
+                android:layout_width="@dimen/button_image_size_land_600_width"
+                android:layout_height="@dimen/button_image_size_land_600_height"
+                android:id="@+id/vectorImage3"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textMoving_4"
+                android:id="@+id/textMoving4"
+                android:textSize="@dimen/button_name_size_land_600_width"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                android:layout_marginBottom="@dimen/button_image_vertical_600_margin"/>
+
+
+            <ImageView
+                android:layout_width="@dimen/button_image_size_land_600_width"
+                android:layout_height="@dimen/button_image_size_land_600_height"
+                android:id="@+id/vectorImage4"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textMoving_5"
+                android:id="@+id/textMoving5"
+                android:textSize="@dimen/button_name_size_land_600_width"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                android:layout_marginBottom="@dimen/button_image_vertical_600_margin"/>
+
+
+            <ImageView
+                android:layout_width="@dimen/button_image_size_land_600_width"
+                android:layout_height="@dimen/button_image_size_land_600_height"
+                android:id="@+id/vectorImage5"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textMoving_6"
+                android:id="@+id/textMoving6"
+                android:textSize="@dimen/button_name_size_land_600_width"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                android:layout_marginBottom="@dimen/button_image_vertical_600_margin"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

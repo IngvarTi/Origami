@@ -1,0 +1,59 @@
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/plane"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.mittereflores.origami.ActivityPlane">
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/scrollView"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:layout_marginTop="?android:attr/actionBarSize"
+                    android:layout_width="@dimen/button_image_size_width"
+                    android:layout_height="@dimen/button_image_size_height"
+                    android:id="@+id/vectorImage"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="@dimen/button_image_vertical_margin" />
+
+                <ImageView
+                    android:layout_width="@dimen/button_image_size_width"
+                    android:layout_height="@dimen/button_image_size_height"
+                    android:id="@+id/vectorImage1"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="@dimen/button_image_vertical_margin" />
+
+                <ImageView
+                    android:layout_width="@dimen/button_image_size_width"
+                    android:layout_height="@dimen/button_image_size_height"
+                    android:id="@+id/vectorImage2"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="@dimen/button_image_vertical_margin" />
+
+                <ImageView
+                    android:layout_width="@dimen/button_image_size_width"
+                    android:layout_height="@dimen/button_image_size_height"
+                    android:id="@+id/vectorImage3"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="@dimen/button_image_vertical_margin" />
+
+                <ImageView
+                    android:layout_width="@dimen/button_image_size_width"
+                    android:layout_height="@dimen/button_image_size_height"
+                    android:id="@+id/vectorImage4"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="@dimen/button_image_vertical_margin" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
